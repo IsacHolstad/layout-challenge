@@ -1,0 +1,65 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  background-color: #76e4eb;
+  height: 48px;
+  width: 987px;
+
+  position: absolute;
+  width: 987px;
+  height: 48px;
+  left: 227px;
+  top: 0px;
+}
+.herobaner {
+  background-color: #315fa4;
+  height: 420px;
+  width: 987;
+  position: absolute;
+  width: 987px;
+  height: 420px;
+  left: 227px;
+  top: 48px;
+}
+.blocks {
+  background-color: #ca1dcd;
+  width: 315px;
+  height: 220px;
+  position: absolute;
+  width: 315px;
+  height: 220px;
+  left: 227px;
+  top: 488px;
+}
+.blockers {
+  background-color: #ca1dcd;
+  height: 220px;
+  width: 315px;
+  position: absolute;
+  width: 315px;
+  height: 220px;
+  left: 563px;
+  top: 488px;
+}
+.bonkers {
+  background-color: #ca1dcd;
+  height: 220px;
+  width: 315px;
+  position: absolute;
+  width: 315px;
+  height: 220px;
+  left: 899px;
+  top: 488px;
+}
+.footer {
+  background-color: #c01887;
+  height: 172px;
+  width: 987px;
+  position: absolute;
+  width: 987px;
+  height: 172px;
+  left: 227px;
+  top: 728px;
+}
